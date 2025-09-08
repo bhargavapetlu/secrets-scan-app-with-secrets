@@ -1,0 +1,9 @@
+database:
+  user: admin
+  password: mypassword123
+  host: localhost
+  port: 3306
+
+aws:
+  access_key: AKIA1234567890DUMMY
+  secret_key: wJalrXUtnFEMI/K7MDENG/bPxRfiCYDUMMYKEY

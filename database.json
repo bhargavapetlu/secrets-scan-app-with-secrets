@@ -1,0 +1,5 @@
+{
+  "db_user": "root",
+  "db_password": "root1234",
+  "connection_string": "postgres://root:root1234@localhost:5432/mydb"
+}
